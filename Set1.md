@@ -1455,4 +1455,3 @@ router.get(
 export default router;
 ```
 
-So platform mein har question ko exactly **`Problem Statement → Code Stub → Solution Code`** ke three-component structure mein rakh sakte hain. Student ko only first two components dikhayenge; `Solution Code` faculty/reference side pe rahega.
